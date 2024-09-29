@@ -482,7 +482,7 @@
 
 .signup-button:hover {
     background: linear-gradient(56deg, #9660f9, #40f384);
-    border: 2px solid;
+    border: none;
     border-radius: 5px;
     color: black;
     padding: 10px 20px;
